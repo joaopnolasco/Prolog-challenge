@@ -1,5 +1,5 @@
 # Prolog-challenge
-Desafio proposto na disciplina de Lógica para computação do CIn-UFPE. 
+Desafio proposto na disciplina de Lógica para computação do CIn-UFPE [IF972]
 
 
 em que usamos a linguagem Prolog para fazer a árvore genealógica citada na música "I'm my own grandpa". Com a base de dados construída, a partir de consultas conseguimos provar se algo é verdadeiro ou falso.
